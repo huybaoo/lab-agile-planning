@@ -1,12 +1,3 @@
----
-name: User Story
-about: This template is for creating user stories
-title: ''
-labels: ''
-assignees: ''
-
----
-
 1. 1
 2. 2
 3. 3
